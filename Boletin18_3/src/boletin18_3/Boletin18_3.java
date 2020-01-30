@@ -13,7 +13,6 @@ public class Boletin18_3 {
     Alumnos[] DAM1 = new Alumnos[30];
     Alumnos[] suspensos = new Alumnos[30];
     Alumnos[] aprobados = new Alumnos[30];
-    
     Notas dam = new Notas();
     
     dam.creaArray(DAM1);
