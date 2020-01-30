@@ -43,7 +43,7 @@ class Notas {
         System.out.println("La nota media de la clase es: " + total / notasT);
     }
 
-    public void calcNotaMax() {
+    public void calcNotaMax(){
         int notaMax = 0;
         for (int i = 0; i < notas.length; i++) {
             if (notas[i] > notaMax) {
